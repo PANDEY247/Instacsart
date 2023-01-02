@@ -1,14 +1,7 @@
 ## InstaCart 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d989ba5f-681a-446f-b47f-f196a4a0bb35/deploy-status)](https://app.netlify.com/sites/sayancr777-instacart/deploys)
 
->```Expense Tracker``` is a free minimalist daily planner app focused on privacy. Schedule your tasks and projects with the to do lists and complete your deadline before the day ends. 
 
-Author : [Sayan Maity](sayancr777@gmail.com)
-
-![preview](https://github.com/Sayan-Maity/InstaCart/blob/main/public/preview.jpg)
 
 ## Features
 
@@ -20,7 +13,7 @@ Author : [Sayan Maity](sayancr777@gmail.com)
 
 - **Frontend**: React.Js, Bootstrap, CSS, Javascript
 - **Version Control**: Git
-- **Hosting**: Netlify, Github Pages
+- **Hosting**: Vercel, Github Pages
 
 ## Setup and Installation
 Fork and Clone this project. Make sure you have git installed. On the terminal, navigate to your workspace directory and run it
@@ -30,5 +23,3 @@ Fork and Clone this project. Make sure you have git installed. On the terminal, 
 - Authentication can be added 
 - Backend can be thought to get introduced
 ​
-## License
-This project is licensed under the MIT license.
