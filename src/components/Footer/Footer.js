@@ -14,6 +14,9 @@ const Footer = () => {
             <a href="/" className={`${styles.navLink}`}>
               Privacy policy
             </a>
+            <a href="/" className={`${styles.navLink}`}>
+              Contact
+            </a>
           </div>
           <div>
             <span>
